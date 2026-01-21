@@ -3,6 +3,11 @@
 [![Website](https://img.shields.io/badge/Official_Site-ResumeSolving.com-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://resumesolving.com)
 [![Author](https://img.shields.io/badge/Author-Sarah_Jenkins-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://resumesolving.com/author-sarah-jenkins/)
 [![Contact](https://img.shields.io/badge/Support-Contact_Us-0a66c2?style=for-the-badge&logo=gmail&logoColor=white)](https://resumesolving.com/contact-us/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ResumeSolving-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/resumesolving/)
+[![X](https://img.shields.io/badge/X-@resumessolving-0a66c2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/resumessolving)
+[![Medium](https://img.shields.io/badge/Medium-@resumesolving-0a66c2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@resumesolving)
+[![Facebook](https://img.shields.io/badge/Facebook-ResumeSolving-0a66c2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/resumesolving/)
+[![Email](https://img.shields.io/badge/Email-contact%40resumesolving.com-0a66c2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@resumesolving.com)
 
 # Strategic Resumes for the "Complicated" Cases
 
@@ -10,7 +15,7 @@
 
 We specialize in helping candidates navigate the complexities of the global job market by turning professional hurdles into strategic narratives.
 
----
+***
 
 ### 🗺️ Navigation & Resources
 
@@ -18,14 +23,20 @@ We specialize in helping candidates navigate the complexities of the global job 
 | :--- | :--- |
 | **Recovery & Pivot Strategies**<br><br>🔹 [**Career Recovery**](https://resumesolving.com/career-recovery/)<br>_Rebuilding after professional setbacks._<br><br>🔹 [**Crisis Management**](https://resumesolving.com/crisis-management/)<br>_Handling gaps, terminations, and reputation._<br><br>🔹 [**Identity Pivots**](https://resumesolving.com/identity-pivots/)<br>_Strategies for changing industries._<br><br>🔹 [**Component Strategy**](https://resumesolving.com/component-strategy/)<br>_Tactical breakdown of resume sections._<br><br>🔹 [**Modern Context**](https://resumesolving.com/modern-context/)<br>_Adapting to current global hiring trends._ | **Corporate Info**<br>📄 [About Us](https://resumesolving.com/about/)<br>✍️ [Meet the Author: Sarah Jenkins](https://resumesolving.com/author-sarah-jenkins/)<br>📰 [Articles & Knowledge Base](https://resumesolving.com/articles/)<br><br>**Legal Compliance**<br>🔒 [Privacy Policy](https://resumesolving.com/privacy-policy/)<br>🍪 [Cookie Policy](https://resumesolving.com/cookie-policy/)<br>📜 [Terms of Use](https://resumesolving.com/terms-of-use/)<br>⚠️ [General Disclaimer](https://resumesolving.com/general-disclaimer/) |
 
----
+***
 
 ### 🚀 Connect With Us
 
 Ready to reconstruct your professional narrative?
 
-- [Visit Official Website](https://resumesolving.com)
-- [Read Latest Insights](https://resumesolving.com/articles/)
-- [Contact Support](https://resumesolving.com/contact-us/)
+[![Visit Website](https://img.shields.io/badge/Website-ResumeSolving.com-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://resumesolving.com)
+[![Read Articles](https://img.shields.io/badge/Read-Latest_Insights-0a66c2?style=for-the-badge&logo=rss&logoColor=white)](https://resumesolving.com/articles/)
+[![Support](https://img.shields.io/badge/Support-Contact_Us-0a66c2?style=for-the-badge&logo=gmail&logoColor=white)](https://resumesolving.com/contact-us/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company_Page-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/resumesolving/)
+[![X](https://img.shields.io/badge/X-Follow_on_X-0a66c2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/resumessolving)
+[![Medium](https://img.shields.io/badge/Medium-Follow_on_Medium-0a66c2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@resumesolving)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow_on_Facebook-0a66c2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/resumesolving/)
+[![Email](https://img.shields.io/badge/Email-contact%40resumesolving.com-0a66c2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@resumesolving.com)
 
 © 2026 ResumeSolving.com. All Rights Reserved.
